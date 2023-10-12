@@ -1090,9 +1090,9 @@ Level up your GitHub profile readme with customizable cards including LOC statis
 
 <img src="https://user-images.githubusercontent.com/16708871/143486536-83e85294-2839-4cf1-9e14-685c05da918b.png" alt="image" style="max-width: 100%;">
 
-#### 39. [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
+#### 39. [Github Readme Quotes]([quotes-github-readme](https://github.com/PiyushSuthar/github-readme-quotes))
 
-Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
+🔥 Add Programming Quotes To Your GitHub Readme
 
 📍 For example : &nbsp;
 
