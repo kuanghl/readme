@@ -1096,7 +1096,7 @@ Dynamic quote generator for your GitHub readmes | Give a poetic touch to readmes
 
 📍 For example : &nbsp;
 
-<img src="https://camo.githubusercontent.com/4f89632167b7a39fb7f92d4f634da0ce577b0a5c5ceee4578c71d12fc4417c77/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6461726b" alt="Quote" data-canonical-src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" style="max-width: 100%;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 #### 40 . [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme)
 
