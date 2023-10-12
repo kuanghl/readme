@@ -8,6 +8,9 @@
 
 # Hello friends 🖐️
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World!%22);cout << %22Hello%2C%20World!%22 << endl;console.log(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);echo %22Hello%2C%20World!%22;Console.WriteLine(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=27" alt="Typing SVG" />
+</div>
 how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
 # 📖 Table of Contents
@@ -275,7 +278,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 📍 For example :
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
 #### 26 . [hits](https://github.com/silentsoft/hits)
 
@@ -293,13 +296,14 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
 
-#### 28 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
+#### 28 . [markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
-Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
+Badges for your personal developer branding, profile, and projects.
+[ileriayo.github.io/markdown-badges](https://ileriayo.github.io/markdown-badges/)
 
 📍 For example :
 
-[![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
+[![Topmate](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)](https://github.com/Ileriayo/markdown-badges)
 
 #### 29 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
 
@@ -519,14 +523,15 @@ Add dynamically generated GitHub Stat Trophies on your readme
 <br/>
 <br/>
 
-#### 17 . [Github Readme Twitter](https://github.com/gazf/github-readme-twitter)
+#### 17 . [github-twitter-card-embed](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-Add Twitter to your github readme
+🏆 The Best Realtime Tweet embed with 60+ awesome themes. Get a Verified badge, Showcase your Tweet on Website, GitHub ReadMe or anywhere else, Download your tweets as image. 😱
+
 <br/>
 
 📍 For example : &nbsp;
 
-<img src="https://camo.githubusercontent.com/2fb269ef6a610e8170b5f17ed47455674ddc7662d3c8e9565b8dbe6123b0ce29/68747470733a2f2f6769746875622d726561646d652d747769747465722e67617a662e76657263656c2e6170702f6170693f69643d74776974746572" alt="github-readme-twitter" data-canonical-src="https://github-readme-twitter.gazf.vercel.app/api?id=twitter" style="max-width: 100%;">
+![tweet_preview](https://user-images.githubusercontent.com/81325730/209658899-48cd4ba1-0d10-42e9-9ce5-e9b78334da7e.png)
 
 <br/>
 <br/>
@@ -1033,22 +1038,22 @@ GitHub Action to download the devcard from https://daily.dev
 
 📍 For example : &nbsp;
 
-<a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/6ae35a9240b4445ab6b12d50bea77589.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
+<a href="https://app.daily.dev/rzashakeri"><img src="https://api.daily.dev/devcards/0b156485612243bfa39092f30071e276.png?r=fpe" width="200" alt="Reza Shakeri's Dev Card"/></a>
 <br/>
 
-#### 34 . [Pimp My Readme](https://github.com/joshdsouza8/pimp-my-readme)
+#### 34 . [Pimp My Readme Next](https://github.com/Podter/pimp-my-readme-next)
 
-Pimp my README is an open source profile builder that you can use to add some cool components to your README profile - Made with <3 by webapp.io :)
+The original Pimp my README made by joshdsouza8, you can see his repository here: https://github.com/joshdsouza8/pimp-my-readme
 
 📍 For example : &nbsp;
 
-<a href="https://pimp-my-readme.webapp.io" rel="nofollow"><img src="https://camo.githubusercontent.com/88bddfba73d62d64c703ef1c75bbe2a2dc2deb4c214e851f5e7a882332a755fd/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f776176792d62616e6e65723f7375627469746c653d416e2532306f70656e253230736f7572636525323070726f6a656374253230253341253239267469746c653d50696d702532306d79253230524541444d45" alt="Pimp my README, An open source project :)" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=An%20open%20source%20project%20%3A%29&amp;title=Pimp%20my%20README" style="max-width: 100%;"></a>
+[![Pimp my README, built with Next.js and deployed on Vercel](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=built%20with%20Next.js%20and%20deployed%20on%20Vercel&title=Pimp%20my%20README%20Next)](https://pimp-my-readme-next.vercel.app/)
 
-<img src="https://camo.githubusercontent.com/433c5a2daa0061aa3be92b6233f904ea1b2176e219a2130ddfccd4d3a4a43a27/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f736c6964696e672d746578743f656d6f6a69733d31663931662d31663366655f31663630655f31663630385f316639393526746578743d50696d702532353230796f75722532353230524541444d45" alt="Pimp my README" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&amp;text=Pimp%2520your%2520README" style="max-width: 100%;">
+[![Hello world example](https://pimp-my-readme-next.vercel.app/api/wavy-banner?title=Hello%20world&subtitle=Lorem%20ipsum%20dolor%20sit%20amet%20consectetur%2C%20adipisicing%20elit.)](https://pimp-my-readme-next.vercel.app)
 
-<img src="https://camo.githubusercontent.com/0fae9cc46100cdf2fc60208b147d5febb0d83bfc5264f0a7179c95ad655967ad/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f76697369746f722d636f756e7465723f706167653d70696d702d6d792d726561646d65" alt="Visitor Counter for pimp-my-readme" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=pimp-my-readme" style="max-width: 100%;">
+[![Pimp your README](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f91f-1f3fe_1f60e_1f608_1f995&text=Pimp%20your%20README)](https://pimp-my-readme-next.vercel.app)
 
-<img src="https://camo.githubusercontent.com/5ad62aa314f320a330c539e266964d5371a3b0f5efdbdfbb270000688a977f35/68747470733a2f2f70696d702d6d792d726561646d652e7765626170702e696f2f70696d702d6d792d726561646d652f746563686e6f6c6f67793f746563686e6f6c6f67793d4a6176615363726970745f48544d4c5f4353535f4e6f64654a535f457870726573735f" alt="JavaScript_HTML_CSS_NodeJS_Express_" data-canonical-src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_Express_" style="max-width: 100%;">
+[![JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_Java_NodeJS_GoLang_Elixir_MySQL_PostgreSQL_MongoDB_Redis_AWS_ReactJS_Flask_Express_)](https://pimp-my-readme-next.vercel.app)
 
 #### 35 . [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
 
@@ -1441,7 +1446,8 @@ Make your GitHub repo beautiful
 
 📍 For example : &nbsp;
 
-<img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
+[![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)](https://starchart.cc/caarlos0/starcharts)
+
 
 #### 73 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
 
