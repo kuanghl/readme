@@ -1468,7 +1468,7 @@ By showcasing the range/The number of articles you have consumed and your chosen
 
 📍 For example : &nbsp;
 
-![beautify-github-profile](https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![beautify-github-profile](https://socialify.git.ci/kuanghl/kuanghl/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 
 #### 75 . [invidget](https://github.com/SwitchbladeBot/invidget) 
