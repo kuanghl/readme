@@ -31,7 +31,7 @@ Create a repository with your GitHub username 👇
 
 <br>
 
-<img src="name.png">
+<img src="name.PNG">
 
 <br>
 
@@ -41,7 +41,7 @@ Template : 👇
 
 Example : 👇
 
-    https://github.com/rzashakeri/rzashakeri
+    https://github.com/kuanghl/kuanghl
 
 ### After Create Repository, **Create a README.md** in Repository and Done ✅
 
@@ -1248,7 +1248,7 @@ Dynamically generated GitHub repository star chart. 📈 ⭐️
 
 📍 For example : &nbsp;
 
-[![Star History Chart](https://api.star-history.com/svg?repos=rzashakeri/beautify-github-profile&type=Date)](https://star-history.com/#rzashakeri/beautify-github-profile&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kuanghl/kuanghl&type=Date)](https://star-history.com/#kuanghl/kuanghl&Date)
 
 #### 54 . [Moon.svg](https://github.com/hmu332233/moon.svg)
 
